@@ -1,4 +1,4 @@
-# hackathon-projects-portfolio
+# Hackathon-projects-portfolio
 # 🚀 Hackathon Projects Portfolio
 
 This repository showcases a collection of hackathon projects focused on product thinking, user-centered design, and building accessible, impactful technology solutions. Each project reflects rapid development, problem-solving, and an emphasis on real-world usability.
