@@ -73,7 +73,7 @@ We built a simple and intuitive budgeting experience that helps users track expe
 ---
 
 ## 🔗 Devpost
-[Insert Financial App Devpost link here](https://devpost.com/software/technica2019-4y9reg)]
+(https://devpost.com/software/technica2019-4y9reg)]
 
 ---
 
