@@ -43,7 +43,7 @@ We designed a narrative-driven learning experience that combines storytelling wi
 ---
 
 ## 🔗 Devpost
-[Insert Candy Coded Devpost link here](https://devpost.com/software/candy-coded)]
+(https://devpost.com/software/candy-coded)
 
 ---
 
